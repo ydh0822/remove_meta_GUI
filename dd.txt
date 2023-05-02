@@ -1,0 +1,5 @@
+pyinstaller --onefile -n remove_meta_GUI.exe --icon=D://etc/python_code/remove_meta_gui/favicon.ico --noconsole --version-file file_version_info.txt .\remove_meta_gui.py
+
+https://www.awaresystems.be/imaging/tiff/tifftags/orientation.html
+
+0x0112
