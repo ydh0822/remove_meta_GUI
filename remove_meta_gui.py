@@ -7,8 +7,8 @@ import os
 
 #기본 세팅
 root = Tk()
-# photo = PhotoImage(file = 'D://etc/python_code/remove_meta_gui/favicon.ico')
-# root.wm_iconphoto(False, photo)
+photo = PhotoImage(file = 'D://etc/python_code/remove_meta_gui/favicon.ico')
+root.wm_iconphoto(False, photo)
 root.title("메타데이터 제거기 - H4uN")
 # root.geometry("540x300+100+100")
 # root.geometry("350x100")
