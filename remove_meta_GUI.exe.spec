@@ -38,7 +38,7 @@ exe = EXE(
     codesign_identity=None,
     entitlements_file=None,
     version='file_version_info.txt',
-    icon=['D:\\etc\\python_code\\remove_meta_gui\\favicon.ico'],
+    icon=['D:\\etc\\python_code\\remove_meta_GUI\\assets\\white.png'],
 )
 coll = COLLECT(
     exe,

@@ -29,12 +29,12 @@ StringFileInfo(
     u'040904B0',
     [StringStruct(u'CompanyName', u''),
     StringStruct(u'FileDescription', u'remove meta GUI - H4uN'),
-    StringStruct(u'FileVersion', u'1.0.0.0'),
+    StringStruct(u'FileVersion', u'1.2.0.0'),
     StringStruct(u'InternalName', u''),
     StringStruct(u'LegalCopyright', u''),
     StringStruct(u'OriginalFilename', u''),
     StringStruct(u'ProductName', u'remove_meta_gui-H4uN.exe'),
-    StringStruct(u'ProductVersion', u'1.0.0.0')])
+    StringStruct(u'ProductVersion', u'1.2.0.0')])
   ]), 
 VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
   ]

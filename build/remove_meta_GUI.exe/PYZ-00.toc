@@ -1,4 +1,4 @@
-('D:\\etc\\python_code\\remove_meta_gui\\remove_meta_GUI\\build\\remove_meta_GUI.exe\\PYZ-00.pyz',
+('D:\\etc\\python_code\\remove_meta_GUI\\build\\remove_meta_GUI.exe\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\ydh08\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
